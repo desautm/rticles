@@ -32,6 +32,7 @@ test_format <- function(name, os_skip = NULL) {
   })
 }
 
+<<<<<<< HEAD
 # test_format("acm_article")
 # test_format("acs_article")
 # test_format("aea_article")
@@ -46,3 +47,18 @@ test_format <- function(name, os_skip = NULL) {
 # test_format("sim_article")
 # test_format("peerj_article")
 test_format("amq_article")
+=======
+test_format("acm_article")
+test_format("acs_article")
+test_format("aea_article")
+test_format("ams_article")
+test_format("asa_article")
+test_format("elsevier_article")
+test_format("jss_article")
+test_format("rss_article")
+test_format("pnas_article")
+test_format("ieee_article")
+test_format("rjournal_article")
+test_format("sim_article")
+test_format("peerj_article")
+>>>>>>> a5fcab46840abb1010ea8037dfb1c0b5e69186c2
