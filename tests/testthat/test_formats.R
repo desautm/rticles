@@ -61,4 +61,8 @@ test_format("ieee_article")
 test_format("rjournal_article")
 test_format("sim_article")
 test_format("peerj_article")
+<<<<<<< HEAD
 >>>>>>> a5fcab46840abb1010ea8037dfb1c0b5e69186c2
+=======
+test_format("amq_article")
+>>>>>>> upstream/master
